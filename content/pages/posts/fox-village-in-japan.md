@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: Speech and visual cross-modal generation
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
