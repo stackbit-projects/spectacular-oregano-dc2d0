@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: Multimedia Presentation for Xinsheng's Dissertation
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
