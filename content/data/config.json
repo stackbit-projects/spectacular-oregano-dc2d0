@@ -24,11 +24,6 @@
                 "label": "SAS",
                 "url": "/style-guide",
                 "style": "link"
-            },
-            {
-                "label": "AnyoneNet",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_social": true,
