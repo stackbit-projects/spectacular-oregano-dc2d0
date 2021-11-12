@@ -1,5 +1,5 @@
 ---
-title: Speech and visual cross-modal generation
+title: About this website
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
